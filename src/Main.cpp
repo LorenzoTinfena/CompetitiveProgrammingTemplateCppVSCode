@@ -23,11 +23,9 @@ typedef pair<ii, int>  iii;
 typedef vector<int>    vi;
 typedef vector<ii>     vii;
 typedef vector<iii>    viii;
-const   int            inf = 0;
-const   double         eps = 0;
-const   int            ms = 0;
-const   int            md = 0;
 
 int main() {
-    
+	// DELETE THESE TWO LINES IF YOU ARE USING STANDARD INPUT OUTPUT
+	freopen("input.txt", "r", stdin);
+	freopen("output.txt", "w", stdout);
 }
